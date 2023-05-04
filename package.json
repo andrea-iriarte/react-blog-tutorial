@@ -1,7 +1,7 @@
 {
   "name": "react_blog_tutorial",
   "version": "0.1.0",
-  "homepage": "https://andrea-iriarte.github.io/react-blog",
+  "homepage": "https://andrea-iriarte.github.io/react-blog-tutorial",
   "private": true,
   "dependencies": {
     "axios": "^1.4.0",
