@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "new post ",
+      "datetime": "April 30, 2023 5:39:50 PM",
+      "body": "sometimes i wish i could die"
+    },
+    {
+      "id": 4,
+      "title": "new post #2",
+      "datetime": "April 30, 2023 5:40:13 PM",
+      "body": "sometimes i missed the life i used to live"
+    },
+    {
+      "id": 5,
+      "title": "new post #3",
+      "datetime": "May 03, 2023 8:06:44 PM",
+      "body": "energies come and go, and i never know what i have until it's gone"
+    }
+  ]
+}
